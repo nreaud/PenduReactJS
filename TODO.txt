@@ -15,7 +15,6 @@ IHM:
 
 
 Autour:
-- Github (1)
 - Correction openClassroom (1)
 - Déployer sur seveur perso (1)
 
