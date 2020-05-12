@@ -1,0 +1,15 @@
+.inputKey {
+    border: thin solid darkgrey;
+    font-size: 4em;
+    margin-right: 0.2em;
+    z-index: 0;
+}
+
+.inputKey.false {
+    background-color: white;
+}
+
+.inputKey.true {
+    background-color: lightgrey;
+    cursor: not-allowed;
+}

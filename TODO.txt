@@ -1,0 +1,25 @@
+Fonctionnalités:
+- Secret Word scalable en fonction de la place allouée (suggestion très grand nouveau mot J2) (2)
+-'?' aide à côtés des éléments (1)
+- Choix clavier ou alphabet rangé (3)
+
+Code:
+- Composants réutilisables (2)
+- Une seule liste pour array 'lettres', séparation dans le CSS (2)
+- this.var vs this.state.var? (state pour élément affichables du DOM?)
+
+IHM:
+- Responsive (2)
+- Menu 2 joueurs déroulant(jeu reprend 100% écran) (3)
+- Page web "matûre"/bien faîte (2) 
+
+
+Autour:
+- Github (1)
+- Correction openClassroom (1)
+- Déployer sur seveur perso (1)
+
+Légende:
+(1) - Important
+(2) - Optimisation
+(3) - Optionnel

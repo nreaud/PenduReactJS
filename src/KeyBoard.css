@@ -1,0 +1,25 @@
+.keyBoard {
+    display: grid;    
+    grid-template-columns: repeat(11 , 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+    justify-items: left;
+}
+
+.keyBoard:focus{
+    outline: none;
+}
+
+.firstLine {
+    grid-column: 3/11;
+}
+
+.secondLine {
+    grid-column: 3/11;
+    margin-left: 1em;
+}
+
+.thirdLine {
+    grid-column: 3/11;
+    margin-left: 2em;
+}
